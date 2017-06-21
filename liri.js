@@ -86,7 +86,7 @@ fs.readFile("random.txt","utf8", function(err,data){
 }
 doAnything();
 
-//-----------------------------------------------------
+//------------------Function to utilize node in terminal------------------------
  function display(){
 
 
